@@ -1,5 +1,5 @@
-# -*- coding: utf-8 -*-
-"""ASSIGNMENT 2.ipynb
+
+#ASSIGNMENT 2.ipynb
 
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
