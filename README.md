@@ -14,5 +14,6 @@ This repository contains my Python Programming coursework and assignments for th
 
 ### Repository Contents
 
-* **LCA 1_All Assignment** — Python programming assignments and other programs.
+* **All Assignments** — Python programming assignments and other programs.
+* **Python mini project**
 
